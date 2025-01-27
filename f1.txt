@@ -1,1 +1,2 @@
-this is testing file
+this is testing file f1 and we will check how merge works
+adding new line
